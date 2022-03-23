@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ainesh Adhikari
-- 👀 I’m interested in Game Developement. 
-- 🌱 I’m currently learning C,C++,C# and Unity.
+- 👀 I’m interested in App Developement. 
+- 🌱 I’m currently learning Dart and Flutter.
 - 💞️ I’m looking to collaborate on projects which will help me grow my knowledge base.
 - 📫 How to reach me - Phone Number - 9437487161  Email - ainesh580@gmail.com
 
